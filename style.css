@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.averagePrice {
+    color: maroon;
+}
